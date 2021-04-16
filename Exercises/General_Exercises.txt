@@ -1,0 +1,16 @@
+General Exercises
+
+1.	
+    Vanilla JS => 4
+    jQuery => 4
+    HTML/HTML5 => 4
+    CSS/CSS3 => 4
+    Ajax => 3
+    AngularJS =>4
+    Bootstrap => 4
+	
+2. 100px+5px = 105px
+3. Using the selector .not, with the ":last" to do the filter.
+4. Because when you run the code, the function will be run but doesn't return any value. So, because of this, the value of "who" will be change from Function Identity to the return of the Function Identity, that, in this case is "undefined". To show the name Jack in both alert, just put "name" in front of "return".
+
+
